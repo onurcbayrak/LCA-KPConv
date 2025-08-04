@@ -21,7 +21,7 @@ https://github.com/onurcbayrak/LCA-KPConv/blob/main/datasets/STPLS3D.py#L84
 
       self.path = r"E:STPLS3D" -> self.path=r"YOUR_PATH"
 
-and: 
+and\l
       python train_STPLS3D.py
 
 For inference, change the log file path at [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/test_models.py#L53) and [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/test_models.py#L96)
