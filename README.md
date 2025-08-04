@@ -1,4 +1,3 @@
-<img width="896" height="560" alt="image" src="https://github.com/user-attachments/assets/ecbc9a53-3291-4034-8bfe-2583913325c1" />
 # LCA-KPConv
 
 This repository contains the implementation of Kernel Point Convolution with Local Contextual Attention mechanism in PyTorch.
@@ -46,9 +45,8 @@ LCA-KPConv architecture obtains the highest classification scores in 3 benchmark
 
 # Results - Hessigheim3D
 
-<img width="989" height="646" alt="image" src="https://github.com/user-attachments/assets/8f9bac53-0f36-4b0e-af73-eca9051db1a9" />
+<img width="988" height="646" alt="image" src="https://github.com/user-attachments/assets/06a183d0-5504-43e7-8950-6ff32bb22f59" />
 <img width="575" height="539" alt="image" src="https://github.com/user-attachments/assets/ac4d57b5-f1ac-493f-845a-63c4b54612d1" />
-
 
 # Results - Toronto3D
 
