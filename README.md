@@ -19,6 +19,8 @@ Replace the folder path (Line 84):
 
 [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/datasets/STPLS3D.py#L84)](https://github.com/onurcbayrak/LCA-KPConv/blob/main/datasets/STPLS3D.py#L84)
 
+  self.path = r"E:STPLS3D" -> self.path=r"YOUR_PATH"
+
 
 
 
