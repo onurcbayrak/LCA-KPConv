@@ -19,9 +19,13 @@ Replace the folder path (Line 84):
 
 https://github.com/onurcbayrak/LCA-KPConv/blob/main/datasets/STPLS3D.py#L84
 
-  self.path = r"E:STPLS3D" -> self.path=r"YOUR_PATH"
+      self.path = r"E:STPLS3D" -> self.path=r"YOUR_PATH"
 
-For inference, change the [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/test_models.py#L56)
-  test_models.py 
+and 
+      python train_STPLS3D.py
+
+For inference, change the log file path at [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/test_models.py#L53) and [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/test_models.py#L96)
+
+      python test_models.py
 
 
