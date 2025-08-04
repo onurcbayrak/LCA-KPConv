@@ -18,7 +18,7 @@ To reproduce the results on STPLS3D,
 Replace the folder path (Line 84):
 
 [# Dataset folder
-        self.path = r"E:STPLS3D"](https://github.com/onurcbayrak/LCA-KPConv/blob/main/datasets/STPLS3D.py)
+        self.path = r"E:STPLS3D"](https://github.com/onurcbayrak/LCA-KPConv/blob/main/datasets/STPLS3D.py)#L42
 
 
 
