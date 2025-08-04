@@ -38,20 +38,21 @@ For inference, change the log file's path to be produced under the results folde
 LCA-KPConv architecture obtains the highest classification scores in 3 benchmark datasets, as of August 2025. 
 
 <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/32b1c261-e776-4f20-8ece-c38a1494dd57" />
-<img width="512" height="487" alt="image" src="https://github.com/user-attachments/assets/86b2bf17-72fa-47db-91f2-754ba6efb3f5" />
-
 
 # Results - STPLS3D
 
 <img width="896" height="560" alt="image" src="https://github.com/user-attachments/assets/2a3e0fef-e96f-4391-9cd5-77c61ce29885" />
+<img width="512" height="487" alt="image" src="https://github.com/user-attachments/assets/86b2bf17-72fa-47db-91f2-754ba6efb3f5" />
 
 # Results - Hessigheim3D
 
 <img width="989" height="646" alt="image" src="https://github.com/user-attachments/assets/8f9bac53-0f36-4b0e-af73-eca9051db1a9" />
+<img width="575" height="539" alt="image" src="https://github.com/user-attachments/assets/ac4d57b5-f1ac-493f-845a-63c4b54612d1" />
 
 
 # Results - Toronto3D
 
 <img width="858" height="566" alt="image" src="https://github.com/user-attachments/assets/c9d5156e-ea62-4d59-86e3-9ddd68bdd460" />
+<img width="723" height="320" alt="image" src="https://github.com/user-attachments/assets/3c802417-b55e-44a8-bb3e-c9e0d8ba2594" />
 
 
