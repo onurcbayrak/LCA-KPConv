@@ -36,3 +36,6 @@ For inference, change the log file's path to be produced under the results folde
 # An overview of the proposed LCA-KPConv architecture:
 
 <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/32b1c261-e776-4f20-8ece-c38a1494dd57" />
+
+# Results 
+      # STPLS3D
