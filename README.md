@@ -1,3 +1,4 @@
+<img width="896" height="560" alt="image" src="https://github.com/user-attachments/assets/ecbc9a53-3291-4034-8bfe-2583913325c1" />
 # LCA-KPConv
 
 This repository contains the implementation of Kernel Point Convolution with Local Contextual Attention mechanism in PyTorch.
@@ -40,5 +41,6 @@ For inference, change the log file's path to be produced under the results folde
 # Results 
       STPLS3D
 
-      <img width="896" height="560" alt="image" src="https://github.com/user-attachments/assets/8556442e-fb1c-41cd-9631-a103a1b766f3" />
+      <img width="896" height="560" alt="image" src="https://github.com/user-attachments/assets/2a3e0fef-e96f-4391-9cd5-77c61ce29885" />
+
 
