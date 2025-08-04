@@ -12,7 +12,7 @@ Trained models and prediction results are available at https://drive.google.com/
 
 
 Currently, this repository only contains the code with the selected parameters for the STPLS3D dataset.
-The code for Hessigheim3D and Toronto3D datasets will be released after the journal paper completes the peer-review process
+The code for Hessigheim3D and Toronto3D datasets will be released after the peer-review process
 
 To reproduce the results on STPLS3D, 
 Replace the folder path (Line 84):
