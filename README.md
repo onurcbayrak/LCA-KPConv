@@ -41,6 +41,6 @@ For inference, change the log file's path to be produced under the results folde
 # Results 
       STPLS3D
 
-      <img width="896" height="560" alt="image" src="https://github.com/user-attachments/assets/2a3e0fef-e96f-4391-9cd5-77c61ce29885" />
+<img width="896" height="560" alt="image" src="https://github.com/user-attachments/assets/2a3e0fef-e96f-4391-9cd5-77c61ce29885" />
 
 
