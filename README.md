@@ -38,6 +38,8 @@ For inference, change the log file's path to be produced under the results folde
 LCA-KPConv architecture obtains the highest classification scores in 3 benchmark datasets, as of August 2025. 
 
 <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/32b1c261-e776-4f20-8ece-c38a1494dd57" />
+<img width="512" height="487" alt="image" src="https://github.com/user-attachments/assets/86b2bf17-72fa-47db-91f2-754ba6efb3f5" />
+
 
 # Results - STPLS3D
 
