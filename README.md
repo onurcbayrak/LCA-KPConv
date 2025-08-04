@@ -38,9 +38,16 @@ For inference, change the log file's path to be produced under the results folde
 
 <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/32b1c261-e776-4f20-8ece-c38a1494dd57" />
 
-# Results 
-      STPLS3D
+# Results - STPLS3D
 
 <img width="896" height="560" alt="image" src="https://github.com/user-attachments/assets/2a3e0fef-e96f-4391-9cd5-77c61ce29885" />
 
+# Results - Hessigheim3D
+
+<img width="878" height="574" alt="image" src="https://github.com/user-attachments/assets/2d19467b-51d4-487c-9b53-5a95bff52fee" />
+
+
+# Results - Toronto3D
+
+<img width="768" height="508" alt="image" src="https://github.com/user-attachments/assets/98824a5f-93ce-4f5d-8af1-c5722433bc1f" />
 
