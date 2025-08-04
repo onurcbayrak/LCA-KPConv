@@ -44,10 +44,11 @@ For inference, change the log file's path to be produced under the results folde
 
 # Results - Hessigheim3D
 
-<img width="878" height="574" alt="image" src="https://github.com/user-attachments/assets/2d19467b-51d4-487c-9b53-5a95bff52fee" />
+<img width="989" height="646" alt="image" src="https://github.com/user-attachments/assets/8f9bac53-0f36-4b0e-af73-eca9051db1a9" />
 
 
 # Results - Toronto3D
 
-<img width="768" height="508" alt="image" src="https://github.com/user-attachments/assets/98824a5f-93ce-4f5d-8af1-c5722433bc1f" />
+<img width="858" height="566" alt="image" src="https://github.com/user-attachments/assets/c9d5156e-ea62-4d59-86e3-9ddd68bdd460" />
+
 
