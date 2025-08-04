@@ -25,7 +25,7 @@ and;
 
       python train_STPLS3D.py
 
-For inference, change the log file's name to be produced under the results folder, path at [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/test_models.py#L53) and [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/test_models.py#L96)
+For inference, change the log file's path to be produced under the results folder [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/test_models.py#L53) and [(https://github.com/onurcbayrak/LCA-KPConv/blob/main/test_models.py#L96)
 
       python test_models.py
 
