@@ -17,7 +17,7 @@ The code for Hessigheim3D and Toronto3D datasets will be released after the jour
 To reproduce the results on STPLS3D, 
 Replace the folder path (Line 84):
 
-(https://github.com/onurcbayrak/LCA-KPConv/blob/main/datasets/STPLS3D.py#L84)
+https://github.com/onurcbayrak/LCA-KPConv/blob/main/datasets/STPLS3D.py#L84
 
   self.path = r"E:STPLS3D" -> self.path=r"YOUR_PATH"
 
