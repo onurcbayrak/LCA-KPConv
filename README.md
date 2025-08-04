@@ -10,3 +10,10 @@ For installation, please refer to https://github.com/HuguesTHOMAS/KPConv-PyTorch
 
 Trained models and prediction results are available at https://drive.google.com/drive/folders/1oapSEidRO8DWbKJPot3Woxi6LxXWHUmu
 
+
+Currently, this repository only contains the code with the selected parameters for the STPLS3D dataset.
+The code for Hessigheim3D and Toronto3D datasets will be released after the journal paper completes the peer-review process
+
+
+
+
