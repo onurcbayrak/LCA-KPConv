@@ -40,17 +40,17 @@ LCA-KPConv architecture obtains the highest classification scores in 3 benchmark
 
 # Results - STPLS3D
 
-<img width="896" height="560" alt="image" src="https://github.com/user-attachments/assets/2a3e0fef-e96f-4391-9cd5-77c61ce29885" />
+<img width="788" height="493" alt="image" src="https://github.com/user-attachments/assets/05e8c28d-b334-43ba-9d9c-cf01249f0f82" />
 <img width="512" height="487" alt="image" src="https://github.com/user-attachments/assets/86b2bf17-72fa-47db-91f2-754ba6efb3f5" />
 
 # Results - Hessigheim3D
 
-<img width="988" height="646" alt="image" src="https://github.com/user-attachments/assets/06a183d0-5504-43e7-8950-6ff32bb22f59" />
+<img width="772" height="503" alt="image" src="https://github.com/user-attachments/assets/4630956b-46c0-47ae-be9b-864bd07cbf5d" />
 <img width="575" height="539" alt="image" src="https://github.com/user-attachments/assets/ac4d57b5-f1ac-493f-845a-63c4b54612d1" />
 
 # Results - Toronto3D
 
-<img width="858" height="566" alt="image" src="https://github.com/user-attachments/assets/c9d5156e-ea62-4d59-86e3-9ddd68bdd460" />
+<img width="671" height="443" alt="image" src="https://github.com/user-attachments/assets/2300b76b-38d7-48e4-88a7-e77cc38615b7" />
 <img width="723" height="320" alt="image" src="https://github.com/user-attachments/assets/3c802417-b55e-44a8-bb3e-c9e0d8ba2594" />
 
 
