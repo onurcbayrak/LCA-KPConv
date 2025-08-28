@@ -40,7 +40,7 @@ LCA-KPConv architecture obtains the highest classification scores in 3 benchmark
 
 # Results - STPLS3D
 
-<img width="788" height="493" alt="image" src="https://github.com/user-attachments/assets/05e8c28d-b334-43ba-9d9c-cf01249f0f82" />
+<img width="788" height="580" alt="image" src="https://github.com/user-attachments/assets/b77acce5-ec1c-42e5-ac07-b02f3ca46f28" />
 <img width="512" height="487" alt="image" src="https://github.com/user-attachments/assets/86b2bf17-72fa-47db-91f2-754ba6efb3f5" />
 
 # Results - Hessigheim3D
