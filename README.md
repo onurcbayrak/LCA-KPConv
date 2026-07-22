@@ -12,7 +12,6 @@ Trained models and prediction results are available at https://drive.google.com/
 
 
 Currently, this repository only contains the code with the selected parameters for the STPLS3D dataset.
-The code for Hessigheim3D and Toronto3D datasets will be released after the peer-review process
 
 To reproduce the results on STPLS3D, 
 Replace the folder path (Line 84):
@@ -53,4 +52,5 @@ LCA-KPConv architecture obtains the highest classification scores in 3 benchmark
 <img width="671" height="443" alt="image" src="https://github.com/user-attachments/assets/2300b76b-38d7-48e4-88a7-e77cc38615b7" />
 <img width="723" height="320" alt="image" src="https://github.com/user-attachments/assets/3c802417-b55e-44a8-bb3e-c9e0d8ba2594" />
 
-
+If you find our research useful, please kindly cite the paper:
+Bayrak, O. C., & Uzar, M. (2025). Local Contextual Attention for Enhancing Kernel Point Convolution in 3D Point Cloud Semantic Segmentation. Applied Sciences, 15(17), 9503.
