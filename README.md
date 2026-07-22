@@ -53,4 +53,5 @@ LCA-KPConv architecture obtains the highest classification scores in 3 benchmark
 <img width="723" height="320" alt="image" src="https://github.com/user-attachments/assets/3c802417-b55e-44a8-bb3e-c9e0d8ba2594" />
 
 If you find our research useful, please kindly cite the paper:
+
 Bayrak, O. C., & Uzar, M. (2025). Local Contextual Attention for Enhancing Kernel Point Convolution in 3D Point Cloud Semantic Segmentation. Applied Sciences, 15(17), 9503.
